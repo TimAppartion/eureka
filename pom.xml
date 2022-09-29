@@ -42,7 +42,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.jobsche.plugin.RemoteCheckApp</mainClass> <!-- 此处为主入口-->
+                            <mainClass>com.example.JiuZhou.WebApplication</mainClass> <!-- 此处为主入口-->
                         </manifest>
                     </archive>
                 </configuration>
